@@ -3,7 +3,7 @@ description: IPSTACK VideoCall SDK - Flutter SDK for 1:1 video & audio calls wit
 version: 1.0.0
 author: "IPSTACK <support@ipstack.online>"
 homepage: "https://videocall.ipstack.online"
-repository: "https://github.com/ipstack/video-call-sdk-flutter"
+repository: "https://github.com/UngCheul-Kim/flutter_videocall_sdk_v2"
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
