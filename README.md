@@ -45,7 +45,7 @@ void main() async {
 ### 3. Initialize the SDK After Login
 
 ```dart
-import 'package:flutter_ipstack_videocall/flutter_video_sdk.dart';
+import 'package:flutter_ipstack_videocall/flutter_ipstack_videocall.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 
 class UserStorage {
@@ -216,7 +216,7 @@ Complete initialization with Firebase, SDK, and managers:
 ```dart
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:flutter_ipstack_videocall/flutter_video_sdk.dart';
+import 'package:flutter_ipstack_videocall/flutter_ipstack_videocall.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 void main() async {
