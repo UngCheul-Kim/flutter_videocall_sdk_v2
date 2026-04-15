@@ -1,0 +1,28 @@
+name: flutter_ipstack_videocall
+description: IPSTACK VideoCall SDK - Flutter SDK for 1:1 video & audio calls with push notification and CallKit support.
+version: 1.0.0
+author: "IPSTACK <support@ipstack.online>"
+homepage: "https://videocall.ipstack.online"
+repository: "https://github.com/ipstack/video-call-sdk-flutter"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.12.0
+  firebase_messaging: ^15.1.6
+  flutter_callkit_incoming: ^3.0.0
+  livekit_client: ^2.6.5
+  web_socket_channel: ^3.0.3
+  http: ^1.2.0
+  uuid: ^4.2.0
+  device_info_plus: ^12.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
