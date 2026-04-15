@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "flutter_ipstack_videocall",
-      "version": "2.0.1",
+      "version": "1.0.0",
       "dependencies": [
         "device_info_plus",
         "firebase_core",
